@@ -12,10 +12,23 @@ import Foundation
 
 class InterfaceController: WKInterfaceController {
 
+    
+    @IBOutlet weak var messageLabel: WKInterfaceLabel!
+    
+    
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
         
         // Configure interface objects here.
+        // Create the message we want to display
+        var message = NSMutableAttributedString(string: "Stand. Move. Exercise. Try to complete the rings every day")
+        // colorize the message
+        message.addAttribute(NSForegroundColorAttributeName, value: UIColor.cyanColor(), range: NSMakeRange(0, 6))
+        message.addAttribute(NSForegroundColorAttributeName, value: UIColor.redColor(), range: NSMakeRange(7, 5))
+
+        message.addAttribute(NSForegroundColorAttributeName, value: UIColor.greenColor(), range: NSMakeRange(13, 9))
+        
+        messageLabel.setAttributedText(message)
     }
 
     override func willActivate() {
