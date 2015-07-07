@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>596A0736-7143-4844-B5D4-9D5E4200B231</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActivityScreen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>611403331AD62A2D382F1D7E281FED7E81BE80E1</key>
+		<string>https://github.com/Howlinmoon/ActivityScreen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActivityScreen.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>611403331AD62A2D382F1D7E281FED7E81BE80E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Howlinmoon/ActivityScreen.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>611403331AD62A2D382F1D7E281FED7E81BE80E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>611403331AD62A2D382F1D7E281FED7E81BE80E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActivityScreen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
